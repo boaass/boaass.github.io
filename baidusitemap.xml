@@ -3,29 +3,41 @@
 
 
     
-  <url>
-    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog3/</loc>
-    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>zhaichunlin's blog</title>
-        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://yoursite.com/2017/03/23/hello-world/</loc>
-    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
+    <lastmod>2017-03-23T09:36:18.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
         <pubTime>2017-03-23T08:28:23.000Z</pubTime>
         
+        <tag>Hello World</tag>
+         
+        <tag>haha</tag>
+         
+        <tag>hehe</tag>
+         
+         
+           
+             
+              <breadCrumb title="日记" url="http://yoursite.com/categories/Diary/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog/</loc>
+    <lastmod>2017-03-23T09:36:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>zhaichunlin's blog</title>
+        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
+        
+        <tag>Hello World</tag>
+         
          
            
         </display>
@@ -33,65 +45,7 @@
     </url>
 
     
-  <url>
-    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog1/</loc>
-    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>zhaichunlin's blog</title>
-        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
-  <url>
-    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog10/</loc>
-    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>zhaichunlin's blog</title>
-        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog11/</loc>
-    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>zhaichunlin's blog</title>
-        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog2/</loc>
-    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>zhaichunlin's blog</title>
-        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog4/</loc>
@@ -109,22 +63,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog/</loc>
-    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>zhaichunlin's blog</title>
-        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog5/</loc>
+    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog3/</loc>
     <lastmod>2017-03-23T08:28:23.000Z</lastmod>
     <data>
         <display>
@@ -154,7 +93,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog7/</loc>
+    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog10/</loc>
     <lastmod>2017-03-23T08:28:23.000Z</lastmod>
     <data>
         <display>
@@ -184,6 +123,21 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog11/</loc>
+    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>zhaichunlin's blog</title>
+        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog9/</loc>
     <lastmod>2017-03-23T08:28:23.000Z</lastmod>
     <data>
@@ -198,5 +152,63 @@
     </url>
 
     
+  <url>
+    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog5/</loc>
+    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>zhaichunlin's blog</title>
+        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
     
+  <url>
+    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog2/</loc>
+    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>zhaichunlin's blog</title>
+        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog1/</loc>
+    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>zhaichunlin's blog</title>
+        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/03/21/zhaichunlin-s-blog7/</loc>
+    <lastmod>2017-03-23T08:28:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>zhaichunlin's blog</title>
+        <pubTime>2017-03-21T08:48:41.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
 </urlset>

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-23T08:28:23.000Z</updated>
+  <updated>2017-03-23T09:36:18.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yoursite.com/2017/03/23/hello-world/"/>
     <id>http://yoursite.com/2017/03/23/hello-world/</id>
     <published>2017-03-23T08:28:23.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
+    <updated>2017-03-23T09:36:18.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<a id="more"></a></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
@@ -35,17 +35,25 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      描述
     
     </summary>
     
+      <category term="日记" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="Hello World" scheme="http://yoursite.com/tags/Hello-World/"/>
+    
+      <category term="haha" scheme="http://yoursite.com/tags/haha/"/>
+    
+      <category term="hehe" scheme="http://yoursite.com/tags/hehe/"/>
     
   </entry>
   
   <entry>
     <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog9/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog9/</id>
+    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog5/"/>
+    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog5/</id>
     <published>2017-03-21T08:48:41.000Z</published>
     <updated>2017-03-23T08:28:23.000Z</updated>
     
@@ -101,8 +109,8 @@
   
   <entry>
     <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog11/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog11/</id>
+    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog2/"/>
+    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog2/</id>
     <published>2017-03-21T08:48:41.000Z</published>
     <updated>2017-03-23T08:28:23.000Z</updated>
     
@@ -120,8 +128,8 @@
   
   <entry>
     <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog2/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog2/</id>
+    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog11/"/>
+    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog11/</id>
     <published>2017-03-21T08:48:41.000Z</published>
     <updated>2017-03-23T08:28:23.000Z</updated>
     
@@ -142,7 +150,7 @@
     <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog/"/>
     <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog/</id>
     <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
+    <updated>2017-03-23T09:36:11.000Z</updated>
     
     <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
 <the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
@@ -154,43 +162,7 @@
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog3/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog3/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog5/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog5/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
+      <category term="Hello World" scheme="http://yoursite.com/tags/Hello-World/"/>
     
   </entry>
   
@@ -255,6 +227,44 @@
     <title>zhaichunlin&#39;s blog</title>
     <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog4/"/>
     <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog4/</id>
+    <published>2017-03-21T08:48:41.000Z</published>
+    <updated>2017-03-23T08:28:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
+<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>zhaichunlin&#39;s blog</title>
+    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog9/"/>
+    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog9/</id>
+    <published>2017-03-21T08:48:41.000Z</published>
+    <updated>2017-03-23T08:28:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
+<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>zhaichunlin&#39;s blog</title>
+    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog3/"/>
+    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog3/</id>
     <published>2017-03-21T08:48:41.000Z</published>
     <updated>2017-03-23T08:28:23.000Z</updated>
     
