@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[new blog]]></title>
+      <url>%2F2017%2F03%2F24%2Fnew-blog%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[Hello Hexo]]></title>
       <url>%2F2017%2F03%2F24%2FHello-Hexo%2F</url>
       <content type="text"><![CDATA[sdfsd]]></content>

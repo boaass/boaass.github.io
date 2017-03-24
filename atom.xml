@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://boaass.github.io/"/>
-  <updated>2017-03-24T06:12:47.000Z</updated>
+  <updated>2017-03-24T07:53:42.000Z</updated>
   <id>https://boaass.github.io/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new blog</title>
+    <link href="https://boaass.github.io/2017/03/24/new-blog/"/>
+    <id>https://boaass.github.io/2017/03/24/new-blog/</id>
+    <published>2017-03-24T07:53:42.000Z</published>
+    <updated>2017-03-24T07:53:42.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello Hexo</title>
