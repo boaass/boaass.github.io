@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/03/24/Hello-Hexo/</loc>
+    <loc>https://boaass.github.io/2017/03/24/Hello-Hexo/</loc>
     <lastmod>2017-03-24T06:12:47.000Z</lastmod>
     <data>
         <display>
@@ -24,37 +24,13 @@
          
            
              
-              <breadCrumb title="教程" url="http://yoursite.com/categories/Course/"/>
+              <breadCrumb title="教程" url="https://boaass.github.io/categories/Course/"/>
           
         </display>
     </data>
     </url>
 
     
-    
-  <url>
-    <loc>http://yoursite.com/2017/03/23/hello-world/</loc>
-    <lastmod>2017-03-23T09:36:18.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-03-23T08:28:23.000Z</pubTime>
-        
-        <tag>Hello World</tag>
-         
-        <tag>haha</tag>
-         
-        <tag>hehe</tag>
-         
-         
-           
-             
-              <breadCrumb title="日记" url="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
     
 </urlset>

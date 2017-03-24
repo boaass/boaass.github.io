@@ -2,35 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/03/24/Hello-Hexo/</loc>
+    <loc>https://boaass.github.io/2017/03/24/Hello-Hexo/</loc>
     
     <lastmod>2017-03-24T06:12:47.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>https://boaass.github.io/categories/index.html</loc>
     
     <lastmod>2017-03-23T09:41:37.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/03/23/hello-world/</loc>
-    
-    <lastmod>2017-03-23T09:36:18.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>https://boaass.github.io/tags/index.html</loc>
     
     <lastmod>2017-03-23T09:33:13.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>https://boaass.github.io/about/index.html</loc>
     
     <lastmod>2017-03-23T09:27:47.000Z</lastmod>
     

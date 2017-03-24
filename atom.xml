@@ -4,9 +4,9 @@
   <subtitle>just a note</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://boaass.github.io/"/>
   <updated>2017-03-24T06:12:47.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://boaass.github.io/</id>
   
   <author>
     <name>binary</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello Hexo</title>
-    <link href="http://yoursite.com/2017/03/24/Hello-Hexo/"/>
-    <id>http://yoursite.com/2017/03/24/Hello-Hexo/</id>
+    <link href="https://boaass.github.io/2017/03/24/Hello-Hexo/"/>
+    <id>https://boaass.github.io/2017/03/24/Hello-Hexo/</id>
     <published>2017-03-24T03:44:01.000Z</published>
     <updated>2017-03-24T06:12:47.000Z</updated>
     
@@ -31,53 +31,18 @@
     
     </summary>
     
-      <category term="教程" scheme="http://yoursite.com/categories/Course/"/>
+      <category term="教程" scheme="https://boaass.github.io/categories/Course/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://boaass.github.io/tags/Hexo/"/>
     
-      <category term="Next" scheme="http://yoursite.com/tags/Next/"/>
+      <category term="Next" scheme="https://boaass.github.io/tags/Next/"/>
     
-      <category term="Sublime Text" scheme="http://yoursite.com/tags/Sublime-Text/"/>
+      <category term="Sublime Text" scheme="https://boaass.github.io/tags/Sublime-Text/"/>
     
-      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+      <category term="Markdown" scheme="https://boaass.github.io/tags/Markdown/"/>
     
-      <category term="配置环境" scheme="http://yoursite.com/tags/%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/03/23/hello-world/"/>
-    <id>http://yoursite.com/2017/03/23/hello-world/</id>
-    <published>2017-03-23T08:28:23.000Z</published>
-    <updated>2017-03-23T09:36:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<a id="more"></a></p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      描述
-    
-    </summary>
-    
-      <category term="日记" scheme="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-      <category term="Hello World" scheme="http://yoursite.com/tags/Hello-World/"/>
-    
-      <category term="haha" scheme="http://yoursite.com/tags/haha/"/>
-    
-      <category term="hehe" scheme="http://yoursite.com/tags/hehe/"/>
+      <category term="配置环境" scheme="https://boaass.github.io/tags/%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/"/>
     
   </entry>
   
