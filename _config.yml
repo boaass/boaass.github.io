@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 翟春林的博客
-subtitle: 专注iOS开发
-description: 翟春林的博客
-author: 翟春林
+title: binary's blog
+subtitle: just a note
+description: 人间有味是清欢
+author: binary
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://boaass.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -46,7 +46,8 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
-        日记: Diary
+        教程: Course
+
 tag_map:
 
 # Date / Time format
