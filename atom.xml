@@ -1,19 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>翟春林的博客</title>
-  <subtitle>专注iOS开发</subtitle>
+  <title>binary&#39;s blog</title>
+  <subtitle>just a note</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-23T09:36:18.000Z</updated>
+  <updated>2017-03-24T06:12:47.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>翟春林</name>
+    <name>binary</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Hexo</title>
+    <link href="http://yoursite.com/2017/03/24/Hello-Hexo/"/>
+    <id>http://yoursite.com/2017/03/24/Hello-Hexo/</id>
+    <published>2017-03-24T03:44:01.000Z</published>
+    <updated>2017-03-24T06:12:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>sdfsd<a id="more"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;sdfsd
+    
+    </summary>
+    
+      <category term="教程" scheme="http://yoursite.com/categories/Course/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="Next" scheme="http://yoursite.com/tags/Next/"/>
+    
+      <category term="Sublime Text" scheme="http://yoursite.com/tags/Sublime-Text/"/>
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+      <category term="配置环境" scheme="http://yoursite.com/tags/%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -39,7 +70,7 @@
     
     </summary>
     
-      <category term="日记" scheme="http://yoursite.com/categories/Diary/"/>
+      <category term="日记" scheme="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
       <category term="Hello World" scheme="http://yoursite.com/tags/Hello-World/"/>
@@ -47,236 +78,6 @@
       <category term="haha" scheme="http://yoursite.com/tags/haha/"/>
     
       <category term="hehe" scheme="http://yoursite.com/tags/hehe/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog5/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog5/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog1/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog1/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog10/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog10/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog2/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog2/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog11/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog11/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T09:36:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-      <category term="Hello World" scheme="http://yoursite.com/tags/Hello-World/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog6/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog6/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog7/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog7/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog8/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog8/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog4/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog4/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog9/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog9/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>zhaichunlin&#39;s blog</title>
-    <link href="http://yoursite.com/2017/03/21/zhaichunlin-s-blog3/"/>
-    <id>http://yoursite.com/2017/03/21/zhaichunlin-s-blog3/</id>
-    <published>2017-03-21T08:48:41.000Z</published>
-    <updated>2017-03-23T08:28:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br>+dsfdsfsfsdfsdfsdf<a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;Excerpt in index | 首页摘要&gt;&lt;br&gt;+dsfdsfsfsdfsdfsdf
-    
-    </summary>
-    
     
   </entry>
   
